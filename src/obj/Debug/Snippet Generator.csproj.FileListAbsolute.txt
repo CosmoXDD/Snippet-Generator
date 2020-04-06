@@ -1,0 +1,10 @@
+C:\Users\PC\Desktop\Visual Studio Projects\Snippet Generator\obj\Debug\Snippet Generator.csprojAssemblyReference.cache
+C:\Users\PC\Desktop\Visual Studio Projects\Snippet Generator\obj\Debug\Snippet_Generator.Main.resources
+C:\Users\PC\Desktop\Visual Studio Projects\Snippet Generator\obj\Debug\Snippet_Generator.Properties.Resources.resources
+C:\Users\PC\Desktop\Visual Studio Projects\Snippet Generator\obj\Debug\Snippet Generator.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\Visual Studio Projects\Snippet Generator\obj\Debug\Snippet Generator.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\Visual Studio Projects\Snippet Generator\bin\Debug\Snippet Generator.exe.config
+C:\Users\PC\Desktop\Visual Studio Projects\Snippet Generator\bin\Debug\Snippet Generator.exe
+C:\Users\PC\Desktop\Visual Studio Projects\Snippet Generator\bin\Debug\Snippet Generator.pdb
+C:\Users\PC\Desktop\Visual Studio Projects\Snippet Generator\obj\Debug\Snippet Generator.exe
+C:\Users\PC\Desktop\Visual Studio Projects\Snippet Generator\obj\Debug\Snippet Generator.pdb
